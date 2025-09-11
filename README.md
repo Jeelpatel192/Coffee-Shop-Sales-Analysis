@@ -70,7 +70,7 @@ Utilized MySql and DAX to make measures and calculations for Total sales, Total 
 <li>How does sales performance vary by days and hours?</li>
 
 ## Result
-![image](https://github.com/Hari-Vijayaraghavan96/Coffee-Shop-Sales-Analysis/assets/163993617/8072950b-9045-4817-ad46-31299bb68ca3)
+![image]([https://github.com/Hari-Vijayaraghavan96/Coffee-Shop-Sales-Analysis/assets/163993617/8072950b-9045-4817-ad46-31299bb68ca3](https://github.com/Jeelpatel192/Coffee-Shop-Sales-Analysis/blob/main/Dashboard.png))
 
 ## Recommendations
 Based on the analysis, the following insights and recommendations were derived:
